@@ -7,7 +7,7 @@ title: Projects
 
 <p>A simple website that prompts you for the basic information you'd need for a resume, which you can then download as a pre-formatted word document that you can personalize to suit your own needs!</p>
 
-[Azure Web Page](https://aresumebuilder.azurewebsites.net/)
+[Azure Web Page (No longer in service)](https://aresumebuilder.azurewebsites.net/)
 
 ![Simple Resume Builder](./assets/ResumeProject.png)
 ![Simple Resume Builder](./assets/ResumeProject2.png)
